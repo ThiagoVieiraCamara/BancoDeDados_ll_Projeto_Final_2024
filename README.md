@@ -11,4 +11,4 @@ Versão do python utilizada: __Python 3.12.2__
 *   Flask-SQLAlchemy
 
 # Apresentação visual do projeto final
-Link do vídeo do youtube: https://youtu.be/J9C53iC49lI (está de forma que somente quem tem o link do vídeo pode assisti-lo)
+Link do vídeo do youtube: https://www.youtube.com/watch?v=J9C53iC49lI
